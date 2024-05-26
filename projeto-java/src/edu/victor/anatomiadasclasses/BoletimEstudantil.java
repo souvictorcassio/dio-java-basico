@@ -1,3 +1,4 @@
+package edu.victor.anatomiadasclasses;
 // código sem identação
 
 // public class BoletimEstudantil {
